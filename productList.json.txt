@@ -1,0 +1,7 @@
+{
+  "id": 1 ,
+  "name": "蘋果", 
+  "image": "apple.jpg", 
+  "price":5 ,
+  "description": "新鮮蘋果50克"
+}
