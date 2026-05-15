@@ -4,4 +4,11 @@
   "image": "apple.jpg", 
   "price":5 ,
   "description": "新鮮蘋果50克"
-}
+},
+ {
+  "id": 2 ,
+  "name": "橙子", 
+  "image": "orange.jpg", 
+  "price":15 ,
+  "description": "新鮮橙150克"
+ }
